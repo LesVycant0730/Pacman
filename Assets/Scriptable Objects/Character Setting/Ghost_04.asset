@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eb7e2e6cbd1d87489d1d0122f80ffb7, type: 3}
+  m_Name: Ghost_04
+  m_EditorClassIdentifier: 
+  characterName: Pink
+  isPlayer: 0
+  isUsingOrientationUpdate: 1
+  speed: 0.035
+  hasSpeedScaling: 1
+  speedScaling: 0.005
+  orientations:
+  - direction: 0
+    sprite: {fileID: 8798318817701701933, guid: 2b8c88d7145cc0845bb81c9ad2463c21,
+      type: 3}
+  - direction: 1
+    sprite: {fileID: 6005993505273524838, guid: 2b8c88d7145cc0845bb81c9ad2463c21,
+      type: 3}
+  - direction: 2
+    sprite: {fileID: 828760502511208156, guid: 2b8c88d7145cc0845bb81c9ad2463c21, type: 3}
+  - direction: 3
+    sprite: {fileID: -1103099693816411958, guid: 2b8c88d7145cc0845bb81c9ad2463c21,
+      type: 3}
+  - direction: 4
+    sprite: {fileID: -1103099693816411958, guid: 2b8c88d7145cc0845bb81c9ad2463c21,
+      type: 3}
